@@ -1,0 +1,146 @@
+[
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/abcg.dir/abcgApplication.cpp.o -c /home/ufabc/Desktop/abcg/abcg/abcgApplication.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/abcgApplication.cpp",
+  "output": "abcg/CMakeFiles/abcg.dir/abcgApplication.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/abcg.dir/abcgTimer.cpp.o -c /home/ufabc/Desktop/abcg/abcg/abcgTimer.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/abcgTimer.cpp",
+  "output": "abcg/CMakeFiles/abcg.dir/abcgTimer.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/abcg.dir/abcgException.cpp.o -c /home/ufabc/Desktop/abcg/abcg/abcgException.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/abcgException.cpp",
+  "output": "abcg/CMakeFiles/abcg.dir/abcgException.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/abcg.dir/abcgImage.cpp.o -c /home/ufabc/Desktop/abcg/abcg/abcgImage.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/abcgImage.cpp",
+  "output": "abcg/CMakeFiles/abcg.dir/abcgImage.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/abcg.dir/abcgTrackball.cpp.o -c /home/ufabc/Desktop/abcg/abcg/abcgTrackball.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/abcgTrackball.cpp",
+  "output": "abcg/CMakeFiles/abcg.dir/abcgTrackball.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/abcg.dir/abcgWindow.cpp.o -c /home/ufabc/Desktop/abcg/abcg/abcgWindow.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/abcgWindow.cpp",
+  "output": "abcg/CMakeFiles/abcg.dir/abcgWindow.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/abcg.dir/abcgUtil.cpp.o -c /home/ufabc/Desktop/abcg/abcg/abcgUtil.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/abcgUtil.cpp",
+  "output": "abcg/CMakeFiles/abcg.dir/abcgUtil.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/abcg.dir/abcgOpenGLError.cpp.o -c /home/ufabc/Desktop/abcg/abcg/abcgOpenGLError.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/abcgOpenGLError.cpp",
+  "output": "abcg/CMakeFiles/abcg.dir/abcgOpenGLError.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/abcg.dir/abcgOpenGLFunction.cpp.o -c /home/ufabc/Desktop/abcg/abcg/abcgOpenGLFunction.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/abcgOpenGLFunction.cpp",
+  "output": "abcg/CMakeFiles/abcg.dir/abcgOpenGLFunction.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/abcg.dir/abcgOpenGLImage.cpp.o -c /home/ufabc/Desktop/abcg/abcg/abcgOpenGLImage.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/abcgOpenGLImage.cpp",
+  "output": "abcg/CMakeFiles/abcg.dir/abcgOpenGLImage.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o -c /home/ufabc/Desktop/abcg/abcg/abcgOpenGLShader.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/abcgOpenGLShader.cpp",
+  "output": "abcg/CMakeFiles/abcg.dir/abcgOpenGLShader.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/abcg.dir/abcgOpenGLWindow.cpp.o -c /home/ufabc/Desktop/abcg/abcg/abcgOpenGLWindow.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/abcgOpenGLWindow.cpp",
+  "output": "abcg/CMakeFiles/abcg.dir/abcgOpenGLWindow.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui.cpp.o -c /home/ufabc/Desktop/abcg/abcg/external/imgui/imgui.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/external/imgui/imgui.cpp",
+  "output": "abcg/external/imgui/CMakeFiles/imgui.dir/imgui.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui_demo.cpp.o -c /home/ufabc/Desktop/abcg/abcg/external/imgui/imgui_demo.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/external/imgui/imgui_demo.cpp",
+  "output": "abcg/external/imgui/CMakeFiles/imgui.dir/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui_draw.cpp.o -c /home/ufabc/Desktop/abcg/abcg/external/imgui/imgui_draw.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/external/imgui/imgui_draw.cpp",
+  "output": "abcg/external/imgui/CMakeFiles/imgui.dir/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui_tables.cpp.o -c /home/ufabc/Desktop/abcg/abcg/external/imgui/imgui_tables.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/external/imgui/imgui_tables.cpp",
+  "output": "abcg/external/imgui/CMakeFiles/imgui.dir/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui_widgets.cpp.o -c /home/ufabc/Desktop/abcg/abcg/external/imgui/imgui_widgets.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/external/imgui/imgui_widgets.cpp",
+  "output": "abcg/external/imgui/CMakeFiles/imgui.dir/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui_impl_sdl2.cpp.o -c /home/ufabc/Desktop/abcg/abcg/external/imgui/imgui_impl_sdl2.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/external/imgui/imgui_impl_sdl2.cpp",
+  "output": "abcg/external/imgui/CMakeFiles/imgui.dir/imgui_impl_sdl2.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg/external/imgui",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -sUSE_SDL=2 -w -o CMakeFiles/imgui.dir/imgui_impl_opengl3.cpp.o -c /home/ufabc/Desktop/abcg/abcg/external/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/ufabc/Desktop/abcg/abcg/external/imgui/imgui_impl_opengl3.cpp",
+  "output": "abcg/external/imgui/CMakeFiles/imgui.dir/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/abcg/external/fmt",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/fmt.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -w -o CMakeFiles/fmt.dir/format.cc.o -c /home/ufabc/Desktop/abcg/abcg/external/fmt/format.cc",
+  "file": "/home/ufabc/Desktop/abcg/abcg/external/fmt/format.cc",
+  "output": "abcg/external/fmt/CMakeFiles/fmt.dir/format.cc.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/examples/BajaModelViewer",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/bajaviewer.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/bajaviewer.dir/main.cpp.o -c /home/ufabc/Desktop/abcg/examples/BajaModelViewer/main.cpp",
+  "file": "/home/ufabc/Desktop/abcg/examples/BajaModelViewer/main.cpp",
+  "output": "examples/BajaModelViewer/CMakeFiles/bajaviewer.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/examples/BajaModelViewer",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/bajaviewer.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/bajaviewer.dir/model.cpp.o -c /home/ufabc/Desktop/abcg/examples/BajaModelViewer/model.cpp",
+  "file": "/home/ufabc/Desktop/abcg/examples/BajaModelViewer/model.cpp",
+  "output": "examples/BajaModelViewer/CMakeFiles/bajaviewer.dir/model.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/examples/BajaModelViewer",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/bajaviewer.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/bajaviewer.dir/window.cpp.o -c /home/ufabc/Desktop/abcg/examples/BajaModelViewer/window.cpp",
+  "file": "/home/ufabc/Desktop/abcg/examples/BajaModelViewer/window.cpp",
+  "output": "examples/BajaModelViewer/CMakeFiles/bajaviewer.dir/window.cpp.o"
+},
+{
+  "directory": "/home/ufabc/Desktop/abcg/build/examples/BajaModelViewer",
+  "command": "/home/ufabc/emsdk/upstream/emscripten/em++  @CMakeFiles/bajaviewer.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -w -o CMakeFiles/bajaviewer.dir/trackball.cpp.o -c /home/ufabc/Desktop/abcg/examples/BajaModelViewer/trackball.cpp",
+  "file": "/home/ufabc/Desktop/abcg/examples/BajaModelViewer/trackball.cpp",
+  "output": "examples/BajaModelViewer/CMakeFiles/bajaviewer.dir/trackball.cpp.o"
+}
+]

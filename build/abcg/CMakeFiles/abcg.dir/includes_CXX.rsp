@@ -1,0 +1,1 @@
+-I/home/ufabc/Desktop/abcg/abcg -I/home/ufabc/Desktop/abcg/abcg/external/cppitertools -I/home/ufabc/Desktop/abcg/abcg/external/fmt -I/home/ufabc/Desktop/abcg/abcg/external/glm/.. -I/home/ufabc/Desktop/abcg/abcg/external/imgui -isystem /home/ufabc/Desktop/abcg/abcg/external -isystem /home/ufabc/Desktop/abcg/abcg/external/tiny_obj_loader
